@@ -2,6 +2,7 @@ Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
 Aenean commodo ligula eget dolor.
 Aenean massa.
+Yonatan added this line
 Cum sociis natoque penatibus et magnis dis parturient montes, SOME ADDED TEXT
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
